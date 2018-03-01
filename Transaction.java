@@ -1,5 +1,3 @@
-package BlockChain;
-
 public class Transaction {
     private String sourceName;
     private String destinationName;
